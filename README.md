@@ -14,7 +14,8 @@ A responsive and animated product store built with **HTML**, **CSS**, and **Java
 ---
 
 ## 📷 Preview
-![App Screenshot](screenshot.png)
+![App Screenshot](<img width="943" height="415" alt="Screenshot 2025-08-14 232448" src="https://github.com/user-attachments/assets/a57db99a-221f-4d06-ae15-bfc946a841f8" />
+)
 
 ---
 
